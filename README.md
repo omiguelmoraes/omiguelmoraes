@@ -1,9 +1,13 @@
 # 👋 Oi, eu sou o Miguel Moraes
 
 ## Sobre
-🎨 Web Designer na Barca e fundador da Korbi<br>
-💻 Estudante de ADS na Unisinos<br>
-🚀 Design de interface, landing pages e sites que vendem, com código e IA no processo
+Designer de Porto Alegre, trabalhando com design desde 2022. Desenho e construo interfaces que chamam atenção e funcionam na prática.
+
+Fui estudar código e marketing porque uma interface bonita não sustenta nada sozinha se não estiver atrelada ao objetivo do negócio. Design é uma parte de uma engrenagem maior, e eu gosto de mexer na engrenagem inteira.
+
+Mais de 100 projetos depois, a pergunta que ficou é por que certos sites se destacam enquanto outros passam batidos. Aqui é onde eu testo as respostas: sites, ferramentas e automações que construo com IA no processo.
+
+Estudo ADS e treino todo dia. Gosto de entender como as coisas funcionam por dentro, seja uma marca, um site ou um hábito.
 
 ## Habilidades
 - **Design:** Figma, Framer, UI, Visual Design, Branding
