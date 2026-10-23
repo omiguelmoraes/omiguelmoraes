@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Miguel Moraes
 
 ## About
-Designer from Porto Alegre who designs and builds interfaces that grab attention and actually work, because design is just one part of a bigger machine.
+Multidisciplinary designer from Porto Alegre. A bit of design, a bit of marketing, a bit of code, trying to bring it all together to improve the results of everything I create.
 
 ## Skills
 - **Design:** Figma, Framer, UI, Visual Design, Branding
